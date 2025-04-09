@@ -1,4 +1,4 @@
-baseURL               = "https://your-domain.vercel.app/WebStack-Demo"
+baseURL               = "https://web-stack-hugo-ebon.vercel.app/"
 languageCode          = "zh-CN"
 title                 = "WebStack-Hugo 网址导航"
 theme                 = "WebStack-Hugo"
